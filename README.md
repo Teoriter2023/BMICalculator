@@ -1,6 +1,5 @@
 # BMICalculator
 
-BMICalculator
 BMICalculator adalah aplikasi web sederhana untuk menghitung Indeks Massa Tubuh (BMI), yang memberikan informasi cepat tentang status berat badan berdasarkan tinggi dan berat badan pengguna.
 
 Fitur:
